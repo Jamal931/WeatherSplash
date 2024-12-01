@@ -5,7 +5,7 @@ const Weather = ({ temperature, description }) => {
   return (
     <div>
       <h3>Temperature: {temperature}°C</h3>
-      <p>{description}</p>
+      <p>Weather temperature={25} description="Sunny with a gentle breeze"</p>
     </div>
   );
 }
