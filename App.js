@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';  // This line can remain for styling
-import Weather from './weather';  // This should match the actual file name and path
+import './App.css';  
+import Weather from './weather';  
 
 
 function App() {
