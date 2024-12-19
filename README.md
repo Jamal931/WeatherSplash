@@ -38,8 +38,7 @@ In the project directory, you can run the following scripts:
 
 ### Fetch Weather Data
 
-The app fetches weather data from an external API. Ensure you have a valid API key and configure it in the `.env` file or in the code.
-
+The app fetches weather data from the OpenWeatherMap API. 
 ### Example Output
 
 Once a city is entered and the "Get Weather" button is clicked, the app will display:
@@ -53,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This should make your README even more user-friendly!
+
