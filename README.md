@@ -8,10 +8,10 @@ To get started with the project, clone the repository and install the dependenci
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Jamal931/weathersplash.git
 
 # Navigate to the project directory
-cd weather-app
+cd weathersplash
 
 # Install dependencies
 npm install
